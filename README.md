@@ -40,4 +40,5 @@ Program ini bekerja melalui serangkaian tahapan:
 4. Jalankan program.
 
 ## Kontribusi
+Kontribusi sangat diapresiasi! Jika Anda menemukan bug atau memiliki saran untuk perbaikan, silakan buka issue atau pull request.
 
